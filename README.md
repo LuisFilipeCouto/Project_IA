@@ -11,6 +11,3 @@ The [A* algorithm](pathfinding.py) is implemented with the following characteris
 
 ### Detailed description/usage 
 Read the project report -> [**report.pdf**](report.pdf)
-
-### Programming/Scripting/Markup Languages
-`Python`
