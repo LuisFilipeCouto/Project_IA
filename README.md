@@ -11,3 +11,17 @@ The [A* algorithm](pathfinding.py) is implemented with the following characteris
 
 ### Detailed description/usage 
 Read the project report -> [**report.pdf**](report.pdf)
+
+To install necessary dependencies (assuming you are in the base directory):
+```
+python3 -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+```
+
+To test the program:
+```
+python3 server.py    # in terminal 1 
+python3 viewer.py    # in terminal 2
+python3 student.py   # in terminal 3
+```
